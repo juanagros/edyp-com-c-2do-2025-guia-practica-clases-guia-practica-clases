@@ -220,3 +220,4 @@ menu()
 furgon1 = Camion("ABC123", "Mercedes", 1000, 2020)
 furgon3 = Camion("DEF456", "Volvo", 2000, 2021)
 furgon4 = Camion("ABC124", "Mercedes", 1000, 2020)
+
