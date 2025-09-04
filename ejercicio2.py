@@ -10,3 +10,7 @@
 # - Crear otra clase para un componente (ej: Disco, RAM, etc.) con su propio __init__, __str__ y al menos un método.
 # 
 # ¡No olvides probar todos los métodos y comentar tu criterio para los valores
+
+class Camion:
+    def __init__(self, id:str, modelo:str, marca:str):
+        pass
